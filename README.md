@@ -34,9 +34,9 @@ An Autoencoder is an unsupervised neural network that learns to compress input d
 
 **PROGRAM** 
 
-**Name:** Hariharan S
+**Name:** KAVIPRIYA SP
 
-**Register Number:** 2305001009
+**Register Number:** 2305002011
 
 ``` Python
 from tensorflow import keras
